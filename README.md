@@ -9,6 +9,7 @@ The data set we will be working with (and analyzing and visualizing) is the twee
 **tweet_json.txt** : This file contains informations through API.
 
 **image_predictions** : contains tweet id and url to dog images.
+
 **act_report.pdf** : A pdf documentation of analysis and insights gotten from the dataset.
 
 **wrangle_report.pdf** : This file contains documentation of Data wrangling steps: gathering, assessing and cleaning of the data.
@@ -16,6 +17,7 @@ The data set we will be working with (and analyzing and visualizing) is the twee
 **twitter_archive_master.csv** : This file contains the clean and combined data.
 
 **twitter-archive-enhanced.csv** : This file was gotten from class room.
+
 
 
 This project was completed as part of my Udacitys [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification
